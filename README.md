@@ -6,8 +6,11 @@ PyLadies Chennai meetups are back and we've now gone virtual.
 ### Time: 5:30pm to 6:45pm IST / 8:00am to 9:15am EDT
 ### Location: Google Meet
 
-# Agenda: 
+# Diving into Neural Language Models and Game Development in Python!
+
 https://www.meetup.com/pyladieschennai/events/268215179/
+
+## Agenda:
 
 Intro - Journey of PyLadies Chennai by Niharika (5 mins)
 
