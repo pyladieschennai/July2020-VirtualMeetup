@@ -48,8 +48,3 @@ As a full time data scientist using Python at work, Susan also used Python based
 ### Speaker Bio:
 “Susan is a data scientist during the day, and develops games as a hobby by night. She is a steering committee member and blog editor of A.I. Socratic Circles (AISC), which organizes weekly machine learning discussions and livestreams. Her work in data science focuses on recommender systems at scale, which she has spoken about at the TMLS telecom summit. On the game development side, she has recently shipped a game on consoles and Steam, and spoke at PyCon Canada and other conferences on being a solo game developer.”
 https://www.linkedin.com/in/susan-shu-chang/
-
-## Do follow our social media handles for more updates:
-Twitter: https://twitter.com/pyladieschennai
-
-LinkedIn: https://www.linkedin.com/in/pyladieschennai
